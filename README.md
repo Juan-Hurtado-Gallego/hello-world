@@ -1,2 +1,3 @@
 # hello-world
 First Try
+Hello everyone, not quite sure about what I am doing...
